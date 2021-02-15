@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This repository contains two Collaborative filtering techniques to predict movie ratings from data. The two algorithms are **nearest neighbour** and **latent factor models**. Inside the repository, you can find my report (coming soon) which describes these two algorithms in details and evaluates their performance.
+This repository contains two Collaborative filtering techniques to predict movie ratings from data. The two algorithms are **nearest neighbour** and **latent factor models**. Inside the repository, you can find my report which describes these two algorithms in details and evaluates their performance.
+
+This codebase was adopted from a previous one that I used to enter an in-class competition on Kaggle as part of my university course. Therefore, the results explained in the report will be different as it used a different data-set. You can find the in-class Kaggle competition [here](https://www.kaggle.com/c/cse2525-datamining/overview). My entry was ranked second on the leaderboard.
 
 ## The data-set used
 
